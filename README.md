@@ -6,7 +6,7 @@ A lightweight, real-time ChatGPT clone application built with **Python**, **Stre
 
 Want to see how this app was built step-by-step? Watch the full video tutorial on YouTube!
 
-[![Watch on YouTube](https://img.shields.io/badge/YouTube-Watch%20Tutorial-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/@TheAIShankar)
+[![Watch on YouTube](https://img.shields.io/badge/YouTube-Watch%20Tutorial-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/watch?v=K9cz4PDuVkU)
 
 > 🔔 **Subscribe to the channel:** [TheAIShankar](https://www.youtube.com/@TheAIShankar) for more AI projects, Python tutorials, and coding tips!
 
@@ -29,7 +29,7 @@ Want to see how this app was built step-by-step? Watch the full video tutorial o
 ## 📁 Project Structure
 
 ```text
-chatgpt-clone/
+streamlit-openai-chatbot/
 │
 ├── .streamlit/
 │   ├── secrets.toml       # OpenAI API Key (OPENAI_API_KEY='API_KEY')
